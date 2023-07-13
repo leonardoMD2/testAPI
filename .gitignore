@@ -1,0 +1,22 @@
+# Entorno virtual (venv)
+venv/
+env/
+
+# Archivos de caché
+__pycache__/
+*.pyc
+
+# Archivos de registro
+*.log
+
+# Archivo de base de datos SQLite
+movies.db
+
+# Archivos de configuración de IDE (Opcional)
+.vscode/
+.idea/
+
+# Archivos generados durante el desarrollo
+db_repository/
+dist/
+build/
